@@ -15,3 +15,5 @@
 
 	//执行添加操作 返回1 插入成功
 	$r = $db->insert($table,$data);
+
+	//add test
